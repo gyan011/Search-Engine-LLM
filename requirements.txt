@@ -28,6 +28,7 @@ sqlalchemy
 mysql-connector-python
 validators
 youtube_transcript_api
+ddgs
 pytube
 beautifulsoup4
 huggingface_hub
